@@ -1,4 +1,4 @@
-# Hi, I'm Johan 👋
+# Hi, I'm Johan
 
 Economics student interested in Data Analytics, Finance and Economics.
 
